@@ -1,4 +1,4 @@
-# Programa servidor API-REST de mensagens utilizando Node.js bi Vercel.
+# Programa servidor API-REST de mensagens utilizando Node.js no Vercel.
 
 - O projeto foi desenvolvido no VSCode deve ser chamado "mensagem_nodejs_vercel".
 - Programa cliente está no projeto "mensagem_reactjs_vercel".
