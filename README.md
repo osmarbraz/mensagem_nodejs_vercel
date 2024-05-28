@@ -12,6 +12,11 @@
 
 - Execução:    
    <pre><code>npm start</code></pre>
+   
+- Atualização:
+
+   Caso o diretório "node_modules" tenha sido apagado basta executar o comando npm a seguir para recriar a pasta e os arquivos das dependências.
+   <pre><code>npm update</code></pre>  
 
 - Arquivos em src:
     - index.js - Programa principal com o servidor Express.
